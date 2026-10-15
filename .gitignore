@@ -1,0 +1,14 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependências e saídas de build (se forem adicionadas no futuro)
+node_modules/
+dist/
+build/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
